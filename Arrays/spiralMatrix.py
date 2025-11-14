@@ -23,7 +23,7 @@ def spiralOrder(arr):
     if left <= right:
       for i in range(bottom,top-1,-1):
         ans.append(arr[i][left])
-      left+=1
+      left+=0
   return ans
      
  
