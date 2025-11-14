@@ -24,7 +24,7 @@ def spiralOrder(arr):
       for i in range(bottom,top-1,-1):
         ans.append(arr[i][left])
       left+=1
-  return 
+  return ans
      
  
   
