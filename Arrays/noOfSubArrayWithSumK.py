@@ -13,5 +13,5 @@ def noOfSubArrayWithSumK(arr,k):
       mp[prefixSum]=mp.get(prefixSum,0)+1
   return count
 
-
+print(noOfSubArrayWithSumK([1,1,1],2))
 
