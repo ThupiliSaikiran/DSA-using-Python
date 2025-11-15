@@ -14,4 +14,4 @@ def noOfSubArrayWithSumK(arr,k):
   return count
 
 
-print(noOfSubArrayWithSumK([1,1,1],2))
+
