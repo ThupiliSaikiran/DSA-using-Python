@@ -10,3 +10,4 @@ def isIsomorphic(s,t):
   return True
 
 
+print(isIsomorphic("foo","bar"))
